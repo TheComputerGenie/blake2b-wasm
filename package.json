@@ -7,7 +7,7 @@
     "nanoassert": "^1.0.0"
   },
   "devDependencies": {
-    "blake2b": "^1.2.0",
+    "blake2b": "github:TheComputerGenie/blake2b",
     "browserify": "^14.4.0",
     "tape": "^4.6.3",
     "wat2js": "^1.1.1"
